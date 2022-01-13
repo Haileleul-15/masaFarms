@@ -1,4 +1,7 @@
 # masaFarms
+
+[See Project Full Report](https://github.com/haile-leul/masaFarms/blob/main/masaFarms%20Project%20Report.pdf)
+
 ### Project Description
 masaFarms is an AIoT solution for data-driven agriculture. It employs LoRaWAN communication architecture and powerful machine learning algorithms to make soil moisture predictions for up-to 5 days in advance.
 
